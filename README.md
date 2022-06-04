@@ -7,7 +7,9 @@ Projeto referente ao curso "JavaScript" , pela Digital Innovation One.
   
 
 Criei um jogo da memória apenas com o pato, o nome do game é Find the Duck! 
- <a href="https://github.com/SpruceGabriela">Projeto desenvolvido sob a mentoria de Gabriela Spruce</a> 
+
+<a href="https://github.com/SpruceGabriela">Projeto desenvolvido sob a mentoria de Gabriela Spruce</a> 
+
 <a href="https://github.com/SpruceGabriela/jogo-da-memoria-dio">Repositório referencia</a> 
 
 <h2 align="center">🤍 Fotos do game 🤍</h2>
